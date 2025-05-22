@@ -42,7 +42,3 @@ Valid moves (row, column):
 
 ---
 
-## 📥 Input & Usage
-
-1. Save your maze in a text file (e.g., `maze.txt`) with a structure like:
-
